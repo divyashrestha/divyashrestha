@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# [About Me] (http://divyashr.com.np/)
+# [About Me](http://divyashr.com.np/)
 
 # [Ubuntu Script](https://github.com/anilnabin25/ubuntu-scripts)
 
