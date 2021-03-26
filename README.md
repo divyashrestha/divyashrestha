@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# [About Me] (http://divyashr.com.np/)
+
+# [Ubuntu Script](https://github.com/anilnabin25/ubuntu-scripts)
+
+
 <!--
 **anilnabin25/anilnabin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
