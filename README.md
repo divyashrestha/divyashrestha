@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Github](https://img.shields.io/github/followers/anilnabin25?label=Follow&style=social)](https://github.com/anilnabin25)
+![Divya Shrestha's github stats](https://github-readme-stats.vercel.app/api?username=anilnabin25&show_icons=true&count_private=true&line_height=20&theme=radical)
 # [About Me](http://divyashr.com.np/)
 
 # [Ubuntu Script](https://github.com/anilnabin25/ubuntu-scripts)
