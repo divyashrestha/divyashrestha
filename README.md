@@ -1,4 +1,4 @@
-### Hi ![Visiter](https://komarev.com/ghpvc/?username=anilnabin25)
+### Hi ![Visiter](https://komarev.com/ghpvc/?username=divyashrestha)
 
 <p align="center">
 You have stayed on my page for:
@@ -8,17 +8,17 @@ You have stayed on my page for:
 <a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
 </p>
 
-[![Github](https://img.shields.io/github/followers/anilnabin25?label=Follow&style=social)](https://github.com/anilnabin25)
+[![Github](https://img.shields.io/github/followers/divyashrestha?label=Follow&style=social)](https://github.com/divyashrestha)
 
-![Divya Shrestha's github stats](https://github-readme-stats.vercel.app/api?username=anilnabin25&show_icons=true&count_private=true&line_height=20&theme=radical)
+![Divya Shrestha's github stats](https://github-readme-stats.vercel.app/api?username=divyashrestha&show_icons=true&count_private=true&line_height=20&theme=radical)
 
-# [About Me](http://divyashr.com.np/)
+# [About Me](http://divyashrestha.com.np/)
 
-# [Ubuntu Script](https://github.com/anilnabin25/ubuntu-scripts)
+# [Ubuntu Script](https://github.com/divyashrestha/ubuntu-scripts)
 
 
 <!--
-**anilnabin25/anilnabin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**divyashrestha/divyashrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
